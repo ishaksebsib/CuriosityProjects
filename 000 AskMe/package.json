@@ -1,0 +1,14 @@
+{
+  "name": "askme",
+  "version": "1.0.0",
+  "description": "get interview quession's on your terminal ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ishaksebsib@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}

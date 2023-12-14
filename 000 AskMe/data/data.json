@@ -1,0 +1,207 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "What is React?",
+    "answer": "It is an open-source front-end JavaScript library most popular for single-page web applications. It is helpful when interactive and complex UIs are built for websites or mobile apps. React.js was released for use in 2015 and since then it has become one of the most trusted and used technologies of recent time. It has built one of the largest developer communities around itself."
+  },
+  {
+    "questionNumber": 2,
+    "question": "List some of React.js’ features.",
+    "answer": "Important features of React.js include:\n- Instead of a real DOM, there is Virtual DOM\n- It completely renders the HTML files on the server into client HTML pages, in other words, server-side rendering\n- In React.js, the data can be passed to the other parts of an application only in one direction. In other words, there is a unidirectional flow of data."
+  },
+  {
+    "questionNumber": 3,
+    "question": "What are the main advantages of React.js?",
+    "answer": "The main advantages of React.js are:\n- It enhances the performance of the application\n- It can be used from the client-side as well as the server-side\n- The readability of code is higher in React.js because of JSX\n- It offers easy integration with frameworks such as Angular, Meteor, etc.\n- It is easy to write UI test cases with React.js"
+  },
+  {
+    "questionNumber": 4,
+    "question": "What is JSX?",
+    "answer": "JSX is the syntax extension for Javascript in React.js. With the help of JSX, it is easy to define how the user interface should look. Additionally, with JSX, the file containing the Javascript code can be used to write the HTML structures as well."
+  },
+  {
+    "questionNumber": 5,
+    "question": "Describe an event in React.js?",
+    "answer": "When a user presses a key, clicks the mouse, or performs any action on the machine or when the machine itself triggers an action, these actions are registered as events in React.js. In React.js, we use camelCase to name events, instead of the lowercase in HTML. In React.js, because of JSX, a function is passed as an event handler, instead of the string in HTML."
+  },
+  {
+    "questionNumber": 6,
+    "question": "How do Lists work in React.js?",
+    "answer": "Lists in React.js are created similar to how they are created in regular Javascript. With lists, data can be displayed in an orderly manner and is useful in displaying menus on websites. For traversing lists, the map() function is used."
+  },
+  {
+    "questionNumber": 7,
+    "question": "Why are keys used in React.js Lists?",
+    "answer": "Keys are used in React.js Lists because:\n- Key helps in identifying what objects have been altered, moved, or deleted from lists\n- With the help of keys, it is easier to determine which objects must be re-rendered instead of all components being re-rendered all the time."
+  },
+  {
+    "questionNumber": 8,
+    "question": "Is HTML used in React?",
+    "answer": "No, it uses an HTML-in JavaScript syntax called JSX (JavaScript and XML) that converts HTML tags to React elements."
+  },
+  {
+    "questionNumber": 9,
+    "question": "What is the release date of React?",
+    "answer": "March 2013"
+  },
+  {
+    "questionNumber": 10,
+    "question": "Can you tell two downsides of React?",
+    "answer": "It is difficult to integrate with an MVC framework like Rails. Also, users need to have the knowledge about integrating user interface into MVC framework."
+  },
+  {
+    "questionNumber": 11,
+    "question": "Can you outline the differences between Real DOM and Virtual DOM?",
+    "answer": "Real DOM and Virtual DOM differ in following ways:\n- Real DOM updates slower than Virtual DOM\n- Real DOM can directly update HTML while Virtual DOM updates a virtual representation of HTML\n- Real DOM creates a new DOM if any part of the structure changes, while Virtual DOM updates only the changed part of the DOM."
+  },
+  {
+    "questionNumber": 12,
+    "question": "Explain Flux Concept In React.",
+    "answer": "Flux is a new kind of architecture used for client-side web applications. It supports the concept of Unidirectional Data Flow."
+  },
+  {
+    "questionNumber": 13,
+    "question": "What is Redux in React?",
+    "answer": "Redux is an open-source JavaScript library for front-end development and acts as a container for JavaScript applications that is used for the application's state management."
+  },
+  {
+    "questionNumber": 14,
+    "question": "Explain the ‘Store’ feature.",
+    "answer": "Store is a feature of Redux that allows the application to save the entire State at one place. This allows you to get regular updates from the store directly."
+  },
+  {
+    "questionNumber": 15,
+    "question": "What is a high order component in React?",
+    "answer": "A high-order component in React is an advanced-level technique for reusing component logic."
+  },
+  {
+    "questionNumber": 16,
+    "question": "What is the Presentational segment?",
+    "answer": "The presentational segment is a component in React that just renders HTML, and its only function is presentation markup."
+  },
+  {
+    "questionNumber": 17,
+    "question": "Explain Props in ReactJS.",
+    "answer": "Props in React mean properties. They act as a communication channel from parent to child."
+  },
+  {
+    "questionNumber": 18,
+    "question": "What does the super keyword mean in React?",
+    "answer": "The super keyword in React is used to call super or the parent class."
+  },
+  {
+    "questionNumber": 19,
+    "question": "What is the yield catchphrase in JavaScript?",
+    "answer": "The yield catchphrase in JavaScript is used to delay and resume a generator's work."
+  },
+  {
+    "questionNumber": 20,
+    "question": "List the two types of React component.",
+    "answer": "Two types of React components are:\n- Function component\n- Class component"
+  },
+  {
+    "questionNumber": 21,
+    "question": "What is a synthetic event in ReactJS?",
+    "answer": "A synthetic event in ReactJS is an object that serves as a cross-browser wrapper of the browser’s native event."
+  },
+  {
+    "questionNumber": 22,
+    "question": "In Redux, what is an action?",
+    "answer": "In Redux, an action is an object that contains information about an event that has occurred in an application."
+  },
+  {
+    "questionNumber": 23,
+    "question": "What are stateless components?",
+    "answer": "Stateless components in React are pure functions with no render method."
+  },
+  {
+    "questionNumber": 24,
+    "question": "What is React Router?",
+    "answer": "React Router is a library for routing in React."
+  },
+  {
+    "questionNumber": 25,
+    "question": "Can you list some animation packages in React?",
+    "answer": "Some animation packages in React are:\n- React Motion\n- React Transition Group\n- React Spring"
+  },
+  {
+    "questionNumber": 26,
+    "question": "Explain Jest.",
+    "answer": "Jest is a JavaScript framework created by Facebook and is based on Jasmine. Its feature-rich API helps to get results quickly."
+  },
+  {
+    "questionNumber": 27,
+    "question": "What exactly is the dispatcher?",
+    "answer": "The dispatcher is the central hub of data flow in a Flux application that acts as a directory of callbacks."
+  },
+  {
+    "questionNumber": 28,
+    "question": "Explain the callback function.",
+    "answer": "The callback function in React is called when setState() has finished. A state can be updated in response to prop changes or server response using the setState() method. The main purpose is to prevent a component from re-rendering."
+  },
+  {
+    "questionNumber": 29,
+    "question": "Explain React State.",
+    "answer": "React State is an object that stores the component’s property values. Also, it decides how the component renders and behaves."
+  },
+  {
+    "questionNumber": 30,
+    "question": "Can a State be updated in ReactJS?",
+    "answer": "Yes, it can be updated directly or indirectly. To implement this, one can use either this.setState function or the updater function."
+  },
+  {
+    "questionNumber": 31,
+    "question": "What is the use of the arrow function in React?",
+    "answer": "The arrow function in React helps to create a compact function expression. Also, they help predict bugs when passed as a callback."
+  },
+  {
+    "questionNumber": 32,
+    "question": "List the lifecycle steps of React.",
+    "answer": "The lifecycle steps of React are:\n- Initialization\n- State/Property updates\n- Destruction"
+  },
+  {
+    "questionNumber": 33,
+    "question": "What are React portals?",
+    "answer": "React portals are used to render an element outside its hierarchy using the CreatePortal method. Hence, they allow developers to render outside the hierarchy tree."
+  },
+  {
+    "questionNumber": 34,
+    "question": "Explain Context.",
+    "answer": "React Context is a way to share data globally between React components. It is achieved by passing props from parent to child and storing them in a store. Thus, child components can use these props through the store."
+  },
+  {
+    "questionNumber": 35,
+    "question": "What is the use of Webpack?",
+    "answer": "Webpack is a command line tool used to bundle different code files and assets into a single large file. It has been built over Node.js and helps minimize JavaScript, CSS files, images, etc."
+  },
+  {
+    "questionNumber": 36,
+    "question": "What is Babel?",
+    "answer": "Babel is an open-source JavaScript compiler that converts the latest JavaScript versions to old ones."
+  },
+  {
+    "questionNumber": 37,
+    "question": "How are ReactJS and React Native different?",
+    "answer": "ReactJS is a front-end open-source JavaScript library for UIs, while React Native is an open-source mobile framework for platforms such as Android and iOS."
+  },
+  {
+    "questionNumber": 38,
+    "question": "How do browsers read JSX files?",
+    "answer": "Browsers cannot directly read JSX files as they are a combination of HTML and JavaScript. A transpiler is needed to convert JSX to JavaScript so that browsers can understand."
+  },
+  {
+    "questionNumber": 39,
+    "question": "What is the most advised way for naming components?",
+    "answer": "The most advised way for naming components is by using reference rather than using displayName because it provides a clear and concise name for the component."
+  },
+  {
+    "questionNumber": 40,
+    "question": "Mention one difference between Props and State.",
+    "answer": "One difference between Props and State is that State is mutable while Props are immutable. This means that the state is internal and managed by the component, while props are external and managed by anything that renders the component."
+  },
+  {
+    "questionNumber": 41,
+    "question": "What are pure components in ReactJS?",
+    "answer": "A React component is considered pure if it produces the same output when given the same set of state and props."
+  }
+]
